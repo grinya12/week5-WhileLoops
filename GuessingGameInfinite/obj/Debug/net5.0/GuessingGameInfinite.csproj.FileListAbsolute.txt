@@ -1,0 +1,16 @@
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.exe
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.deps.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\ref\GuessingGameInfinite.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.pdb
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.AssemblyReference.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\ref\GuessingGameInfinite.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.pdb
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.genruntimeconfig.cache

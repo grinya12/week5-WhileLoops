@@ -1,0 +1,16 @@
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.AssemblyReference.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\Grinya\source\repos\WhileLoops\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
